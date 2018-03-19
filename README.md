@@ -1,2 +1,2 @@
 # ff-knowlegde-base
-An app to help firefighters maintains their knowledges
+Web app to help firefighters maintains their knowledges
